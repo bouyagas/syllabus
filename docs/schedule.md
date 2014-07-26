@@ -64,11 +64,12 @@ Go through:
 * JavaScript
     * jQuery
 * Creating a professional presence
-    * LinkedIn
-        * Create on their own, then review one another
     * Portfolio building
-    * GitHub profile
-    * Social media profiles
+    * Online profiles
+        * GitHub
+        * Twitter
+        * LinkedIn
+            * Create on their own, then review one another
 * Career readiness
     * Interview prep
         * Mock interviews?
