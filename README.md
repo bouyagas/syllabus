@@ -1,5 +1,7 @@
 # CUNY NYTech course
 
+**See also:** all the pages under [`docs/`](docs)
+
 ## Facilitators
 
 * Peter Bell – peter@pbell.com
@@ -17,46 +19,9 @@
 * [Hacker Hours](http://hackerhours.org)
 * Meeting w/ individual instructors by appointment
 
-
-
-
-* Name
-* School
-* What do you want to learn?
-* What are you afraid of?
-
-
-
-send
-* schedule
-* meetups
-* Hacker Hours
-* contact info
-
-
-
-interviewing
-security
-how Node.js relates to RoR
-presentations
-functional programming
-how do pieces fit together: NGinx, NoSQL
-hardware
-what languages/technologies need to be learned?
-UI design
-mobile
-software design
-version control
-building things *well*
-documentation
-resumes
-language design
-low-level programming
-how to pick a technology?
-methodologies
-social profiles
-
-
 ## Resources
 
-* [The Hacker Hours list](http://hackerhours.org/resources.html)
+* [Resource list](http://hackerhours.org/resources.html) from Hacker Hours
+* Suggested meetup groups
+    * [NYC on Rails](http://www.meetup.com/nyc-on-rails/)
+    * [NYC.rb](http://www.meetup.com/NYC-rb/)
