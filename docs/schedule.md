@@ -17,6 +17,7 @@ Go through:
 ## Sept 8
 
 * Re-introductions (names, at least?)
+* @afeld: bring sticky notes for name tags
 
 ## Sept 22
 
@@ -52,11 +53,19 @@ Go through:
 
 # Topics
 
-(to be moved up into the schedule)
+(to be trimmed down, rearranged, and moved up into the schedule)
 
+* Prework
+    * [Code School](https://www.codeschool.com)
+        * [Try Ruby](https://www.codeschool.com/courses/try-ruby)
+        * [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
+        * [Rails for Zombies](https://www.codeschool.com/courses/rails-for-zombies-redux)
+    * [Flatiron School](http://prework.flatironschool.com/web-development/)
+    * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * Version control and collaboration
     * Git
     * GitHub
+        * Completing assignments – use [forks strategy](https://education.github.com/guide/forks)?
 * Ruby
     * Everything's an Object
 * Rails
@@ -75,15 +84,20 @@ Go through:
         * Mock interviews?
     * Presentations
     * Resumes
+* Hosting
+    * Deployment
+    * Domain names and DNS
+    * Staging environment(s)
+    * FTP
 * The software landscape
     * How Node.js (and others) relate to RoR
     * Security
     * Functional programming
-    * SQL vs. NoSQL
     * Servers (nginx, Apache, etc.)
     * How to pick a technology?
     * What languages/technologies "need" to be learned?
     * Mobile
+        * Native vs. web
     * Low-level programming
     * Hardware
 * Software craftsmanship
@@ -92,3 +106,9 @@ Go through:
     * Architecture
     * UI design
     * Language design
+* Databases
+    * SQL
+    * NoSQL
+* Other
+    * Guest speakers
+    * Company visits
