@@ -12,7 +12,12 @@
 
 Go through:
 
-* [Setting up your machine](setup.md)
+1. [Setting up your machine](setup.md)
+1. [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+1. [Git Real](https://www.codeschool.com/courses/git-real)
+1. [Try Ruby](https://www.codeschool.com/courses/try-ruby)
+1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
+1. Project – TODO
 
 ## Sept 8
 
@@ -57,21 +62,20 @@ Go through:
 
 * Prework
     * [Code School](https://www.codeschool.com)
-        * [Try Ruby](https://www.codeschool.com/courses/try-ruby)
-        * [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
         * [Rails for Zombies](https://www.codeschool.com/courses/rails-for-zombies-redux)
     * [Flatiron School](http://prework.flatironschool.com/web-development/)
-    * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* Version control and collaboration
-    * Git
-    * GitHub
-        * Completing assignments – use [forks strategy](https://education.github.com/guide/forks)?
+* GitHub
 * Ruby
     * Everything's an Object
+    * Debugging
 * Rails
     * Walkthrough of stack
-* JavaScript
-    * jQuery
+* Front-end
+    * HTML/CSS
+    * JavaScript
+        * jQuery
+    * Developer tools / debugging
+    * GitHub Pages?
 * Creating a professional presence
     * Portfolio building
     * Online profiles
@@ -112,3 +116,7 @@ Go through:
 * Other
     * Guest speakers
     * Company visits
+
+# Questions
+
+* Completing assignments – use [forks strategy](https://education.github.com/guide/forks)?
