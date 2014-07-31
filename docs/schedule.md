@@ -15,8 +15,12 @@
 ## Prework
 * Set up machines - 2 hrs - Aidan
 * Command line basics - 2 hrs - David
+  * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * Git and GitHub - 6 hrs - Peter
+  * [Git Real](https://www.codeschool.com/courses/git-real)
 * Try ruby - 6 hrs - Aidan
+  * [Try Ruby](https://www.codeschool.com/courses/try-ruby)
+  * [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
 * Project - 4 hrs - deliver on GitHub - Aidan
 
 ## Sept 8
@@ -50,6 +54,9 @@
 ## Dec 15
 * Rails 3
 * Aidan
+
+## Jan 5
+* This session *may* not happen - to be determined
 
 ## Feb 2
 * Rails 4
