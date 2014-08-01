@@ -15,9 +15,8 @@
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 1. Git and GitHub - 6 hrs - Peter
   * [Git Real](https://www.codeschool.com/courses/git-real)
-1. Try ruby - 6 hrs - Aidan
-  * [Try Ruby](https://www.codeschool.com/courses/try-ruby)
-  * [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
+1. [Try Ruby](https://www.codeschool.com/courses/try-ruby)
+1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport")
 1. Project - 4 hrs - deliver on GitHub - Aidan
 
 ## Sept 8
