@@ -10,15 +10,15 @@
 
 ### Homework
 
-* [Set up your machine](setup.md)
-* Command line basics - 2 hrs - David
+1. [Set up your machine](setup.md)
+1. Command line basics - 2 hrs - David
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* Git and GitHub - 6 hrs - Peter
+1. Git and GitHub - 6 hrs - Peter
   * [Git Real](https://www.codeschool.com/courses/git-real)
-* Try ruby - 6 hrs - Aidan
+1. Try ruby - 6 hrs - Aidan
   * [Try Ruby](https://www.codeschool.com/courses/try-ruby)
   * [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
-* Project - 4 hrs - deliver on GitHub - Aidan
+1. Project - 4 hrs - deliver on GitHub - Aidan
 
 ## Sept 8
 *  Language Landscape (why ruby and what are the alternatives), and how the inter web works
