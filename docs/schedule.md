@@ -10,10 +10,7 @@
 
 ### Homework
 
-* [Setting up your machine](setup.md)
-
-## Prework
-* Set up machines - 2 hrs - Aidan
+* [Set up your machine](setup.md)
 * Command line basics - 2 hrs - David
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 * Git and GitHub - 6 hrs - Peter
@@ -28,7 +25,8 @@
 * Peter
 
 ## Sept 22
-* Front end (html/css 101) - GUEST (Chris Castig?)
+* Front end (html/css 101)
+* GUEST (Chris Castig?)
 * Aidan
 
 ## Oct 6
@@ -36,15 +34,20 @@
 * Aidan
 
 ## Oct 20
-* Sinatra project 
+* Sinatra project
 * Aidan
 
+### Homework
+
+* Add something to someone else’s code, and/or fix the two js apps
+
 ## Nov 3
-* Software craftsmanships (pre-work: add something to someone else’s code and/or fixing the two js apps) - GUEST 
+* Software craftsmanship
+* GUEST
 * Peter
 
 ## Nov 17
-* Rails 1 
+* Rails 1
 * Aidan
 
 ## Dec 1
@@ -63,29 +66,31 @@
 * Aidan
 
 ## Feb 23
-* Rails project, interview prep - GUEST
+* Rails project, interview prep
+* GUEST
 * Aidan
 
 ## Mar 2
-* Professional presence  - GUEST
+* Professional presence
+* GUEST
 * Peter
 
 ## Mar 16
-* SQL 
+* SQL
 * David
 
 ## Mar 30
-* JS basics (jQuery)
+* jQuery
 * Aidan
 
 ## Apr 13
-* JS fundamentals (js)
+* JS fundamentals
 * Aidan
 
 ## Apr 27
-* NoSQL 
+* NoSQL
 * David
 
 ## May 4
-* Open questions/panel - GUEST PANEL 
+* Open questions/panel - GUEST PANEL
 * Peter
