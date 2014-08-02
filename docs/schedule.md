@@ -13,8 +13,10 @@
 1. [Set up your machine](setup.md)
 1. Command line basics - 2 hrs - David
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-1. Git and GitHub - 6 hrs - Peter
-  * [Git Real](https://www.codeschool.com/courses/git-real)
+1. Git and GitHub - 6 hrs
+  * Configure your laptop with Git and sign up for GitHub as per [these instructions](https://training.github.com/articles/github-class-prerequisites/)
+  * [Git Real](https://www.codeschool.com/courses/git-real) - Go through the full course. 4-5 hours
+  * [Mastering Github](https://www.codeschool.com) - Not launched yet - launching mid August. Just go through levels 1-3 - 2-3 hours
 1. [Try Ruby](https://www.codeschool.com/courses/try-ruby)
 1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport")
 1. Project - 4 hrs - deliver on GitHub - Aidan
