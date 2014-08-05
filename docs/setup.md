@@ -22,8 +22,7 @@ If you are in Ubuntu, run `sudo apt-get update`, or the equivalent command to ge
 
 Great, now that you're in a Unix-y environment, go ahead and install:
 
-* Git
+* Git & GitHub
+  * Follow [these installation instructions](https://training.github.com/articles/github-class-prerequisites/)
 * Ruby 2.x.x, using [RVM](https://rvm.io)
 * [Sublime Text 3](http://www.sublimetext.com/3), or editor of choice
-
-Lastly, **sign up for GitHub** if you don't already have an account.

@@ -16,7 +16,6 @@ Includes the estimated completion times. Go through the entire resource, unless 
 1. Command line basics - 2 hrs
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 1. Git and GitHub
-  * Configure your laptop with Git and sign up for GitHub as per [these instructions](https://training.github.com/articles/github-class-prerequisites/)
   * [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
   * [Mastering Github](https://www.codeschool.com), though level 3 - 2–3 hours
     * Not launched yet - launching mid August
