@@ -10,15 +10,19 @@
 
 ### Homework
 
-* [Set up your machine](setup.md)
-* Command line basics - 2 hrs - David
+Includes the estimated completion times. Go through the entire resource, unless otherwise specified.
+
+1. [Set up your machine](setup.md)
+1. Command line basics - 2 hrs
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-* Git and GitHub - 6 hrs - Peter
-  * [Git Real](https://www.codeschool.com/courses/git-real)
-* Try ruby - 6 hrs - Aidan
-  * [Try Ruby](https://www.codeschool.com/courses/try-ruby)
-  * [Ruby Bits](https://www.codeschool.com/courses/ruby-bits)
-* Project - 4 hrs - deliver on GitHub - Aidan
+1. Git and GitHub
+  * [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
+  * [Mastering Github](https://www.codeschool.com), though level 3 - 2–3 hours
+    * Not launched yet - launching mid August
+1. [Try Ruby](https://www.codeschool.com/courses/try-ruby) – 4 hours
+1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport") – 2 hours
+1. Project – 4 hrs
+  * Submit on GitHub (repository & instructions to come)
 
 ## Sept 8
 *  Language Landscape (why ruby and what are the alternatives), and how the inter web works
