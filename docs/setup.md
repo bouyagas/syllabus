@@ -24,6 +24,6 @@ Great, now that you're in a Unix-y environment, go ahead and install:
 
 * Git
 * Ruby 2.x.x, using [RVM](https://rvm.io)
-* [Sublime Text 3](http://www.sublimetext.com/3), or editor of choice
+* [Sublime Text 3](http://www.sublimetext.com/3), or editor of choice (contact one of the instructors if you want a license for [RubyMine](http://www.jetbrains.com/ruby/))
 
-Lastly, **sign up for GitHub** if you don't already have an account.
+Lastly, [**sign up for GitHub**](https://github.com/join) if you don't already have an account.
