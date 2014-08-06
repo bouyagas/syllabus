@@ -46,16 +46,17 @@ Includes the estimated completion times. Go through the entire resource, unless 
 * Add something to someone else’s code, and/or fix the two js apps
 
 ## Nov 3
+* Rails 1
+* Aidan
+
+## Nov 17
 * Software craftsmanship
 * GUEST
 * Peter
 
-## Nov 17
-* Rails 1
-* Aidan
-
 ## Dec 1
-* Rails 2 - GUEST/Company visit
+* Rails 2
+* GUEST/Company visit
 * Aidan
 
 ## Dec 15
@@ -76,10 +77,10 @@ Includes the estimated completion times. Go through the entire resource, unless 
 
 ## Mar 2
 * Professional presence
-* http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
-* 
 * GUEST
 * Peter
+* Resources
+  * http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
 
 ## Mar 16
 * SQL
