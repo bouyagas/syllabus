@@ -76,6 +76,8 @@ Includes the estimated completion times. Go through the entire resource, unless 
 
 ## Mar 2
 * Professional presence
+* http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
+* 
 * GUEST
 * Peter
 
