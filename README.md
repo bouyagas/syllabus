@@ -26,7 +26,7 @@
   * [GitHub Guides](https://guides.github.com)
   * [GitHub on YouTube](https://www.youtube.com/user/GitHubGuides/playlists)
   * [Sparkfun](https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/)
-  * [Mastering Github](https://www.codeschool.com)
+  * [Mastering Github](https://www.codeschool.com/paths/electives)
     * Launching mid-August 2014
 * Suggested meetup groups
     * [Anatomy of a Ruby Gem](http://www.meetup.com/Anatomy-of-a-Ruby-Gem/)
