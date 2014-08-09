@@ -19,9 +19,9 @@ Includes the estimated completion times. Go through the entire resource, unless 
   * [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
   * [Mastering Github](https://www.codeschool.com), though level 3 - 2–3 hours
     * Not launched yet - launching mid August
+1. Submit your info to [the student directory](https://github.com/cuny-nytech/students) – 15 mins
 1. [Try Ruby](https://www.codeschool.com/courses/try-ruby) – 4 hours
 1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport") – 2 hours
-1. Submit your info to [the student directory](https://github.com/cuny-nytech/students) – 15 mins
 1. Project – 4 hrs
   * Submit on GitHub (repository & instructions to come)
 
