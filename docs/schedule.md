@@ -15,10 +15,11 @@ Includes the estimated completion times. Go through the entire resource, unless 
 1. [Set up your machine](setup.md)
 1. Command line basics - 2 hrs
   * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
-1. Git and GitHub
-  * [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
-  * [Mastering Github](https://www.codeschool.com), though level 3 - 2–3 hours
-    * Not launched yet - launching mid August
+1. [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
+1. GitHub
+  1. [Bootcamp](https://help.github.com/categories/54/articles) – 2 hours
+  1. [Using pull requests](https://help.github.com/articles/using-pull-requests) – 15 mins
+  1. [Creating a pull request](https://help.github.com/articles/creating-a-pull-request) – 15 mins
 
 ## Sept 8
 *  Language Landscape (why ruby and what are the alternatives), and how the inter web works
