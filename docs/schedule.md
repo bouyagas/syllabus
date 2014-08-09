@@ -20,10 +20,6 @@ Includes the estimated completion times. Go through the entire resource, unless 
   1. [Bootcamp](https://help.github.com/categories/54/articles) – 2 hours
   1. [Using pull requests](https://help.github.com/articles/using-pull-requests) – 15 mins
   1. [Creating a pull request](https://help.github.com/articles/creating-a-pull-request) – 15 mins
-1. [Try Ruby](https://www.codeschool.com/courses/try-ruby) – 4 hours
-1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport") – 2 hours
-1. Project – 4 hrs
-  * Submit on GitHub (repository & instructions to come)
 
 ## Sept 8
 *  Language Landscape (why ruby and what are the alternatives), and how the inter web works
@@ -34,9 +30,20 @@ Includes the estimated completion times. Go through the entire resource, unless 
 * GUEST (Chris Castig?)
 * Aidan
 
+### Homework
+
+1. [Try Ruby](https://www.codeschool.com/courses/try-ruby) – 4 hours
+1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport") – 2 hours
+1. Project – 4 hrs
+  * Submit on GitHub (repository & instructions to come)
+
 ## Oct 6
 * Sinatra and hosting
 * Aidan
+
+### Homework
+
+* Sinatra app
 
 ## Oct 20
 * Sinatra project
