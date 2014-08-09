@@ -13,8 +13,7 @@
 Includes the estimated completion times. Go through the entire resource, unless otherwise specified.
 
 1. [Set up your machine](setup.md)
-1. Command line basics - 2 hrs
-  * [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+1. [The twelve most important Unix commands](http://lab.demog.berkeley.edu/Docs/12important/12important.pdf) - 2 hrs
 1. Git and GitHub
   * [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
   * [Mastering Github](https://www.codeschool.com), though level 3 - 2–3 hours
