@@ -1,5 +1,9 @@
 # Schedule
 
+* All class meetings will be 6-8pm on the specified date, location TBD.
+* All assignments, unless otherwise specified, should be completed by the following class.
+* All class content is subject to change.
+
 ## July 22
 
 * Introductions
@@ -22,7 +26,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
 1. Submit your info to [the student directory](https://github.com/cuny-nytech/students) – 15 mins
 
 ## Sept 8
-*  Language Landscape (why ruby and what are the alternatives), and how the inter web works
+* Language Landscape (why ruby and what are the alternatives), and how the inter web works
 * Peter
 
 ## Sept 22
@@ -51,7 +55,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
 
 ### Homework
 
-* Add something to someone else’s code, and/or fix the two js apps
+* Add something to someone else’s code, and/or fix the two JS apps
 
 ## Nov 3
 * Rails 1

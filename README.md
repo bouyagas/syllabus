@@ -1,13 +1,15 @@
 # CUNY NYTech course
 
-**See also:** all the pages under [`docs/`](docs)
-
 ## Facilitators
 
 * Peter Bell – peter@pbell.com
 * David Brizan – dbrizan@gmail.com
 * Ted Brown – TBrown@gc.cuny.edu
 * Aidan Feldman – aidan.feldman@gmail.com
+
+## Important links
+
+* [Class schedule/outline](schedule.md)
 
 ## Communication
 
