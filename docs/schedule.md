@@ -20,6 +20,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
   1. [Bootcamp](https://help.github.com/categories/54/articles) – 2 hours
   1. [Using pull requests](https://help.github.com/articles/using-pull-requests) – 15 mins
   1. [Creating a pull request](https://help.github.com/articles/creating-a-pull-request) – 15 mins
+1. Submit your info to [the student directory](https://github.com/cuny-nytech/students) – 15 mins
 
 ## Sept 8
 *  Language Landscape (why ruby and what are the alternatives), and how the inter web works
