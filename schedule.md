@@ -32,7 +32,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
 
 ## Sept 22
 * Front end (html/css 101)
-* GUEST (Chris Castig?)
+* GUEST (Donn Morrill, Amazon,  Clouds and Computing)
 * Aidan
 
 ### Homework
