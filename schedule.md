@@ -1,6 +1,6 @@
 # Schedule
 
-* All class meetings will be 6-8pm on the specified date, location TBD.
+* All classes are **6-8pm** at the CUNY Graduate School for Journalism, **219 W. 40th St., room 444**.
 * All assignments, unless otherwise specified, should be completed by the following class.
 * Estimated times for homework are included, where possible.
 * All class content is subject to change.
