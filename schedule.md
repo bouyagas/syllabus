@@ -20,10 +20,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
 1. [Set up your machine](setup.md)
 1. [The twelve most important Unix commands](http://lab.demog.berkeley.edu/Docs/12important/12important.pdf) - 2 hrs
 1. [Git Real](https://www.codeschool.com/courses/git-real) - 4 hours
-1. GitHub
-  1. [Bootcamp](https://help.github.com/categories/54/articles) – 2 hours
-  1. [Using pull requests](https://help.github.com/articles/using-pull-requests) – 15 mins
-  1. [Creating a pull request](https://help.github.com/articles/creating-a-pull-request) – 15 mins
+1. [Mastering GitHub](https://www.codeschool.com/courses/mastering-github) – 4 hours
 1. Submit your info to [the student directory](https://github.com/cuny-nytech/students) – 15 mins
 
 ## Sept 8
