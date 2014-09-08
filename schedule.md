@@ -30,7 +30,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
 
 ### Homework
 
-1. [Codecademy HTML/CSS track](http://www.codecademy.com/en/tracks/web) – 7 hours
+1. [Codecademy HTML/CSS track](http://www.codecademy.com/en/tracks/web) – < 7 hours
 1. Create project showcase on GitHub Pages from scratch
     * Follow instructions on [ Pages](https://pages.github.com/) site, using these options:
         1. User or organization site
@@ -44,6 +44,10 @@ Includes the estimated completion times. Go through the entire resource, unless 
         * https://cfpb.github.io/
         * http://bigcartel.com/examples
         * [others](https://github.com/showcases/open-source-organizations)
+1. Join these meetups:
+    * [NYC.rb](http://www.meetup.com/NYC-rb/)
+    * [NYC on Rails](http://www.meetup.com/nyc-on-rails/)
+    * [Hack & Tell](http://www.meetup.com/hack-and-tell)
 
 ## Sept 22
 * Front end (html/css 101)
