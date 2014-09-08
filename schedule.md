@@ -29,7 +29,6 @@ Includes the estimated completion times. Go through the entire resource, unless 
 
 ### Homework
 
-<!-- * [Dash](https://dash.generalassemb.ly/) -->
 1. [Codecademy HTML/CSS track](http://www.codecademy.com/en/tracks/web) – 7 hours
 1. Create project showcase on GitHub Pages from scratch
     * Follow instructions on [ Pages](https://pages.github.com/) site, using these options:
