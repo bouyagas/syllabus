@@ -27,6 +27,24 @@ Includes the estimated completion times. Go through the entire resource, unless 
 * Language Landscape (why ruby and what are the alternatives), and how the inter web works
 * Peter
 
+### Homework
+
+<!-- * [Dash](https://dash.generalassemb.ly/) -->
+1. [Codecademy HTML/CSS track](http://www.codecademy.com/en/tracks/web) – 7 hours
+1. Create project showcase on GitHub Pages from scratch
+    * Follow instructions on [ Pages](https://pages.github.com/) site, using these options:
+        1. User or organization site
+        1. A terminal
+    * Doesn't need to be fancy
+    * Add some existing projects, or placeholders
+    * Inspiration:
+        * http://twitter.github.io/
+        * http://square.github.io/
+        * http://gilt.github.io/
+        * https://cfpb.github.io/
+        * http://bigcartel.com/examples
+        * [others](https://github.com/showcases/open-source-organizations)
+
 ## Sept 22
 * Front end (html/css 101)
 * GUEST (Donn Morrill, Amazon,  Clouds and Computing)
