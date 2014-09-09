@@ -61,6 +61,7 @@ Includes the estimated completion times. Go through the entire resource, unless 
     * Submit on GitHub (repository & instructions to come)
 1. Read:
     * A handful submissions (including comment sections) on [Hacker News](https://news.ycombinator.com/)
+        * Take the comments with a grain of salt
     * [The Valve Handbook for New Employees](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf)
 
 ## Oct 6
