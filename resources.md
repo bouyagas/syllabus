@@ -41,6 +41,8 @@
         * [ReadWrite](http://readwrite.com/)
         * [TechCrunch](http://techcrunch.com/)
         * [The Verge](http://theverge.com/)
+        * short courses from harvard (https://manual.cs50.net/seminars/)
+        * 
 * newsletters
     * [Ruby Weekly](http://rubyweekly.com/)
     * [JavaScript Weekly](http://javascriptweekly.com/)
