@@ -1,10 +1,13 @@
 # Schedule
 
 * All classes are **6-8pm** at the CUNY Graduate School for Journalism, **[219 W. 40th St.](https://www.google.com/maps/preview?ie=UTF-8&fb=1&gl=us&sll=40.755362,-73.988805&sspn=0.0249669,0.0439463&cid=11463841082808986305&q=cuny+graduate+school+of+journalism&ei=FT4OVJaODI7gsASN2YDIBg&ved=0CKIBEPwSMA4), room 444**.
-* All assignments, unless otherwise specified, should be completed by the following class.
-* Estimated times for homework are included, where possible.
+* Assignments:
+    * Estimated times are included, where possible.
+    * Unless otherwise specified:
+        * Go through the entire resource
+        * Should be completed by the following class
 * Bring a laptop to class.
-* All class content is subject to change.
+* Everything on this page is subject to change.
 
 ## July 22
 
@@ -15,8 +18,6 @@
     * What are you afraid of?
 
 ### Homework
-
-Includes the estimated completion times. Go through the entire resource, unless otherwise specified.
 
 1. [Set up your machine](setup.md)
 1. [The twelve most important Unix commands](http://lab.demog.berkeley.edu/Docs/12important/12important.pdf) - 2 hrs
