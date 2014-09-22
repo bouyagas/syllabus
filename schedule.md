@@ -50,16 +50,17 @@
     * [Hack & Tell](http://www.meetup.com/hack-and-tell)
 
 ## Sept 22
-* Front end (html/css 101)
-* GUEST (Donn Morrill, Amazon,  Clouds and Computing)
+
+* Front-end (HTML/CSS 101)
+    * Dev Tools
+* GUEST (Donn Morrill, Amazon, Clouds and Computing)
 * Aidan
 
 ### Homework
 
 1. [Try Ruby](https://www.codeschool.com/courses/try-ruby) – 4 hours
 1. [Ruby Bits](https://www.codeschool.com/courses/ruby-bits), through "Hide instance variables" (a.k.a. up to "ActiveSupport") – 2 hours
-1. Project – 4 hrs
-    * Submit on GitHub (repository & instructions to come)
+1. [Create a Choose Your Own Adventure game](https://github.com/cuny-nytech/adventure) – 4 hrs
 1. Read:
     * A handful submissions (including comment sections) on [Hacker News](https://news.ycombinator.com/)
         * Take the comments with a grain of salt
