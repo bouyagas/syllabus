@@ -52,7 +52,10 @@
 ## Sept 22
 
 * Front-end (HTML/CSS 101)
+    * Sandboxes
+    * Local development
     * Dev Tools
+    * External files
 * GUEST (Donn Morrill, Amazon, Clouds and Computing)
 * Aidan
 
