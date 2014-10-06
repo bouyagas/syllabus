@@ -75,7 +75,9 @@
 
 ### Homework
 
-* Sinatra app
+1. Go through [Singing with Sinatra](http://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
+1. Go through [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
+1. Complete the [Single-Purpose App](https://github.com/cuny-nytech/single-purpose) assignment
 
 ## Oct 20
 * Sinatra project
