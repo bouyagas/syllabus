@@ -4,6 +4,8 @@
 
 ## Git/GitHub
 
+* [GitHub Education program](https://education.github.com/): free private repositories
+      * [Developer Pack](https://education.github.com/pack): free access to to other services
 * [GitHub Guides](https://guides.github.com)
 * [GitHub on YouTube](https://www.youtube.com/user/GitHubGuides/playlists)
 * [Guide from Sparkfun](https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/)
