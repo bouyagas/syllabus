@@ -1,6 +1,6 @@
 # Schedule
 
-* All classes are **6-8pm** at the CUNY Graduate School for Journalism, **[219 W. 40th St.](https://www.google.com/maps/preview?ie=UTF-8&fb=1&gl=us&sll=40.755362,-73.988805&sspn=0.0249669,0.0439463&cid=11463841082808986305&q=cuny+graduate+school+of+journalism&ei=FT4OVJaODI7gsASN2YDIBg&ved=0CKIBEPwSMA4)**. Take the elevator to the third floor, check in with the security guard there, then take the stairs to **room 444**.
+* All classes are **6-8pm** at the CUNY Graduate School for Journalism, **[219 W. 40th St.](https://www.google.com/maps/preview?ie=UTF-8&fb=1&gl=us&sll=40.755362,-73.988805&sspn=0.0249669,0.0439463&cid=11463841082808986305&q=cuny+graduate+school+of+journalism&ei=FT4OVJaODI7gsASN2YDIBg&ved=0CKIBEPwSMA4)**. Take the elevator to the third floor, check in with the security guard there, then take the stairs to **room 436**.
 * Assignments:
     * Estimated times are included, where possible.
     * Unless otherwise specified:
