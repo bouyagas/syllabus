@@ -56,7 +56,7 @@
     * Local development
     * Dev Tools
     * External files
-* GUEST (Donn Morrill, Amazon, Clouds and Computing)
+* GUEST ([Donn Morrill](http://www.linkedin.com/pub/donn-morrill/3/609/69a), [Amazon, Clouds and Computing](http://aws.amazon.com/))
 * Aidan
 
 ### Homework
@@ -71,6 +71,7 @@
 
 ## Oct 6
 
+* Guest speaker: [Bernard "Bernie" Kravitz](http://www.linkedin.com/in/bernardkravitz), [GoWatchIt](http://gowatchit.com/)
 * Look at Choose Your Own Adventure assignment
 * Review Ruby
 * Introduce Sinatra
@@ -84,15 +85,17 @@
 
 ## Oct 20
 
-* Look at Sinatra projects
-* Talk about hosting
-* Aidan
+* Guest speaker: [Trace Wax](https://twitter.com/tracedwax), [thoughtbot](http://thoughtbot.com/)
+* Cover command-line
+* David
 
 ### Homework
 
-* Add something to someone else’s code, and/or fix the two JS apps
+* Complete [persistence assignment](https://github.com/cuny-nytech/persist)
 
 ## Nov 3
+* Look at Sinatra projects
+* Talk about hosting
 * Rails 1
 * Aidan
 
