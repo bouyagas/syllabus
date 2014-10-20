@@ -33,7 +33,7 @@
 
 1. [Codecademy HTML/CSS track](http://www.codecademy.com/en/tracks/web) – < 7 hours
 1. Create project showcase on GitHub Pages from scratch
-    * Follow instructions on [ Pages](https://pages.github.com/) site, using these options:
+    * Follow instructions on [Pages](https://pages.github.com/) site, using these options:
         1. User or organization site
         1. A terminal
     * Doesn't need to be fancy
@@ -85,8 +85,7 @@
 
 ## Oct 20
 
-* Guest speaker: [Trace Wax](https://twitter.com/tracedwax), [thoughtbot](http://thoughtbot.com/)
-* Cover command-line
+* Cover command-line and SQL
 * David
 
 ### Homework
@@ -101,7 +100,7 @@
 
 ## Nov 17
 * Software craftsmanship
-* GUEST
+* Guest speaker: [Trace Wax](https://twitter.com/tracedwax), [thoughtbot](http://thoughtbot.com/)
 * Peter
 
 ## Dec 1
