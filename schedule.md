@@ -80,7 +80,9 @@
 ### Homework
 
 1. Go through [Singing with Sinatra](http://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
+1. Look at the [example Sinatra app](https://github.com/cuny-nytech/sinatra-example)
 1. Go through [Getting Started with Ruby on Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby)
+    * Note that your `Gemfile` will be much simpler than [their example](https://devcenter.heroku.com/articles/getting-started-with-ruby#declare-app-dependencies), since you won't be using a database. Specifically, don't include `gem "pg"` unless you know you need it.
 1. Complete the [Single-Purpose App](https://github.com/cuny-nytech/single-purpose) assignment
 
 ## Oct 20
