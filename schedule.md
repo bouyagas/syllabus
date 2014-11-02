@@ -112,6 +112,7 @@
 
 ## Dec 15
 * Rails 3
+* Guest speaker: [Adam Gotterer](https://www.linkedin.com/in/agotterer), [Nomi](http://nomi.com/)
 * Aidan
 
 ## Jan 5
