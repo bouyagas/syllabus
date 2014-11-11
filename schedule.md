@@ -95,15 +95,28 @@
 * Complete [persistence assignment](https://github.com/cuny-nytech/persist)
 
 ## Nov 3
+
 * Look at Sinatra projects
 * Talk about hosting
 * Rails 1
 * Aidan
 
+### Homework
+
+1. Go through the [Thinkful Ruby on Rails Tutorial](http://www.thinkful.com/learn/ruby-on-rails-tutorial/)
+1. Go through chapters 1-2 of [Michael Hartl's Rails Tutorial](https://www.railstutorial.org/book)
+
 ## Nov 17
+
+* Talks from the journalism incubator
 * Software craftsmanship
 * Guest speaker: [Trace Wax](https://twitter.com/tracedwax), [thoughtbot](http://thoughtbot.com/)
 * Peter
+
+### Homework
+
+1. Go through [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) 
+1. Complete the [persist-rails assignment](https://github.com/cuny-nytech/persist-rails)
 
 ## Dec 1
 * Rails 2
