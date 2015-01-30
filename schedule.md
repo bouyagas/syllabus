@@ -131,12 +131,9 @@
 ## Jan 5
 * This session *may* not happen - to be determined
 
-## Feb 2
+## Feb 9
 * Rails 4
 * Aidan
-
-## Feb 9
-* TBD
 
 ## Feb 23
 * Rails project, interview prep
