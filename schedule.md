@@ -115,7 +115,7 @@
 
 ### Homework
 
-1. Go through [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2) 
+1. Go through [Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)
 1. Complete the [persist-rails assignment](https://github.com/cuny-nytech/persist-rails)
 
 ## Dec 1
@@ -136,20 +136,34 @@
 * Aidan
 
 ## Feb 23
-* Rails project, interview prep
-* GUEST
+
+* Rails project
+* Go through [Test to Learn](https://github.com/afeld/test_to_learn) talk
 * Aidan
 
+### Homework
+
+1. Take a look at the [`complete`](https://github.com/afeld/test_to_learn/tree/complete/src) version of the TodoList example we were looking at in class - note the [additional resources](https://github.com/afeld/test_to_learn#resources)
+1. Go through [Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)
+1. Add tests to one of your applications
+    1. Unit tests around at least one model using [rspec-rails](https://relishapp.com/rspec/rspec-rails/docs) (or [Minitest](http://docs.seattlerb.org/minitest/) or [Test::Unit](http://test-unit.github.io/) if you prefer), e.g.
+        * Ensure [validation](http://guides.rubyonrails.org/active_record_validations.html) is set up correctly
+        * Test any custom methods work as expected
+    1. Functional/integration tests using [Capybara](https://github.com/jnicklas/capybara)
+        * Pick one "flow", e.g. signing up, creating a new Post, etc.
+
 ## Mar 2
-* Professional presence
-* GUEST
-* Peter
-* Resources
-  * http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
+
+* Pick group projects
 
 ## Mar 16
+
+* Professional presence, interview prep - Peter
+* GUEST
 * SQL
 * David
+* Resources
+  * http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
 
 ## Mar 30
 * jQuery
