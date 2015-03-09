@@ -154,29 +154,87 @@
 
 ## Mar 2
 
+* Cover testing in Rails
+* Look at various testing libraries
 * Pick group projects
+
+### Homework
+
+Continue work from last week on testing.
+
+## Mar 9
+
+* Introduction to APIs
+    * HTTP libraries
+        * [`OpenURI`](http://www.rubydoc.info/stdlib/open-uri/OpenURI)
+        * [`REST Client`](https://github.com/rest-client/rest-client)
+    * https://gist.github.com/afeld/4952991
+* Kickoff for final project
+* Set up initial tasks
+
+### Homework
+
+* Set up and do preliminary user interviews
+    * Take copious notes, and direct quotes where possible
+        * Record the call/meeting (with the participant's permission), or
+        * Have two NYTech people on the call, where one can talk notes while the other asks questions
+* Come up with an implementation plan
+    * What is the problem we are trying to solve?
+    * What are we actually going to build?
+    * What are we *not* going to build?
+    * What are the known unknowns?
 
 ## Mar 16
 
+* Present interview results
+* In-person chat w/ Ricky
+* GUEST: Jeremy Canfield from 18F, on User-Centered Design
+
+## Mar 21, 11am-4pm
+
+Visit CoderDojo event at SquareSpace.
+
+* Observe event setup procedures
+* Observe registration procedures
+    * Try to talk to some first-time attendees/parents, and those who have attended before
+    * Take note of issues/bottlenecks/confusion
+
+## Mar 23
+
+* Aidan out of town
 * Professional presence, interview prep - Peter
-* GUEST
-* SQL
-* David
 * Resources
-  * http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
+    * http://www.pcworld.com/article/2457500/5-ways-to-use-social-media-to-boost-your-career-prospects.html
 
 ## Mar 30
-* jQuery
-* Aidan
+
+TBD
+
+## Apr 6
+
+TBD
 
 ## Apr 13
-* JS fundamentals
-* Aidan
+
+TBD
+
+## Apr 20
+
+TBD
 
 ## Apr 27
-* NoSQL
-* David
 
-## May 4
-* Open questions/panel - GUEST PANEL
-* Peter
+* Final project demo (possibly at a meetup instead?)
+* Farewell dinner
+
+---
+
+## Topic backlog
+
+* SQL - David
+* NoSQL
+* JS fundamentals
+* jQuery
+* Guest panel
+* Resume workshop
+* Mock interviews
