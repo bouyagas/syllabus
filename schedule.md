@@ -220,11 +220,28 @@ TBD
 
 ## Apr 20
 
-TBD
+Open work session
+
+### Homework
+
+Prepare resume
+
+* Bring four printed copies (unless it's in an easily-annotateable format like Google Docs)
 
 ## Apr 27
 
-* Final project demo (possibly at a meetup instead?)
+* JS/jQuery fundamentals
+* Resume review
+
+## May 4
+
+* Mock interviews
+* Professional Presesence talk w/ Peter
+* Final project demo prep
+
+## TBD
+
+* Final project demo at a meetup
 * Farewell dinner
 
 ---
@@ -233,8 +250,4 @@ TBD
 
 * SQL - David
 * NoSQL
-* JS fundamentals
-* jQuery
 * Guest panel
-* Resume workshop
-* Mock interviews
