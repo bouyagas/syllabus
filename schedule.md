@@ -226,9 +226,12 @@ Open work session
 
 Prepare resume
 
+* Bring four printed copies (unless it's in an easily-annotateable format like Google Docs)
+
 ## Apr 27
 
-JS fundamentals
+* JS/jQuery fundamentals
+* Resume review
 
 ## May 4
 
@@ -247,7 +250,4 @@ JS fundamentals
 
 * SQL - David
 * NoSQL
-* jQuery
 * Guest panel
-* Resume workshop
-* Mock interviews
