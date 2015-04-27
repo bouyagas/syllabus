@@ -231,6 +231,7 @@ Prepare resume
 ## Apr 27
 
 * JS fundamentals
+    * [Sandboxes](http://documentup.com/advanced-js/syllabus#resources/tools)
     * Syntax overview
         * Everything is a value
         * Lightweight functions
