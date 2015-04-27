@@ -230,13 +230,19 @@ Prepare resume
 
 ## Apr 27
 
-* JS/jQuery fundamentals
+* JS fundamentals
+    * Syntax overview
+        * Everything is a value
+        * Lightweight functions
+    * jQuery
+        * Manipulating elements
+    * [AJAX](https://github.com/advanced-js/deck/tree/gh-pages/demos/ajax)
 * Resume review
 
 ## May 4
 
 * Mock interviews
-* Professional Presesence talk w/ Peter
+* Professional Presence talk w/ Peter
 * Final project demo prep
 
 ## TBD
